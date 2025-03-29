@@ -28,12 +28,6 @@ This landing page was built to showcase the product’s core features and visual
 
 ---
 
-## 📂 Repo Structure
-
-. ├── content/ # Site content (features, pages, etc.) ├── static/images/ # Custom branding and feature illustrations ├── layouts/ # Customized theme templates ├── assets/css/ # Custom styles ├── config.toml # Site configuration ├── publish_to_gh_pages.sh # Deploy script └── USER-STORIES.md # 20 user stories for the product
-
----
-
 
 ## 📦 Deployment
 

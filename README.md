@@ -2,7 +2,7 @@
 
 Welcome to the official landing page for **GlucoTrackr**, a smart, user-friendly glucose monitoring dashboard for people living with diabetes. This site was built using the [Hugo](https://gohugo.io/) static site generator and the [hugo-bootstrap-theme](https://github.com/filipecarneiro/hugo-bootstrap-theme).
 
-![GlucoTrackr Screenshot](static/images/glucose-trend-graph.png)
+![GlucoTrackr Screenshot](static/images/logo.png)
 
 ---
 

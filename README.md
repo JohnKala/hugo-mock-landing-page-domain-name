@@ -33,7 +33,6 @@ This landing page was built to showcase the product’s core features and visual
 
 To rebuild and publish the site:
 
-```bash
 hugo --cleanDestinationDir
 ./publish_to_gh_pages.sh public <your-github-username>/hugo-mock-landing-page
 # Hugo Mock Landing Page (Autodeployed)

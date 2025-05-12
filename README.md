@@ -2,6 +2,11 @@
 
 Welcome to the official landing page for **GlucoTrackr**, a smart, user-friendly glucose monitoring dashboard for people living with diabetes. This site was built using the [Hugo](https://gohugo.io/) static site generator and the [hugo-bootstrap-theme](https://github.com/filipecarneiro/hugo-bootstrap-theme).
 
+This is a mock landing page deployed using GitHub Actions.  
+Visit it live at: [https://glocotrackr.click](https://glocotrackr.click)
+
+The site is automatically deployed to GitHub Pages using a CI/CD pipeline defined in `.github/workflows/gh-pages-deployment.yaml`.
+
 ![GlucoTrackr Screenshot](static/images/logo.png)
 
 ---
